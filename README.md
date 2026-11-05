@@ -209,8 +209,6 @@ The scalability evaluator sets PyTorch and numerical-library thread counts to on
 
 ## Reproducibility scope and limitations
 
-- New main-study MPC evaluations can show small numerical differences from the stored reference metrics. The package does not establish the precise cause of these differences.
-- Successful process completion does not certify convergence of every MPC optimization. The main evaluator selects the candidate with the lowest finite objective without requiring `sol.success`, and does not export individual SLSQP termination statuses.
-- Strict artifact-hash checking prevents detailed reconstruction of the supplied scalability solver diagnostics. Timing tables remain available as saved reference measurements.
+- New main-study MPC evaluations can show small numerical differences from the stored reference metrics.
 - The supplied main-study references do not include the exact trajectory materials needed to regenerate the manuscript's main allocation-coefficient time-series figure. No regeneration command for that figure is provided.
 - Stored main-study paired statistics are recovered rather than recalculated during reference summarization. New evaluations, saved-statistic reconstruction, and policy retraining are distinct reproducibility tasks.
