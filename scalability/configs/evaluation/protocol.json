@@ -1,0 +1,38 @@
+{
+  "scenario_seeds": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
+  "mpc": {
+    "horizon_hours": 8,
+    "simulation_steps": 32,
+    "blocks": 8,
+    "maxiter": 40,
+    "ftol": 1e-07,
+    "equity_weight": 0.1,
+    "starts": 3
+  },
+  "threads": 1,
+  "torch_version": "2.8.0+cu128",
+  "numpy_version": "2.3.3",
+  "scipy_version": "1.16.2",
+  "python": "3.13.5 (main, Jun 18 2026, 09:58:24) [GCC 13.3.0]",
+  "decoder": "corrected",
+  "initial_soc": 50,
+  "decision_hours": 1,
+  "episode_hours": 168,
+  "concurrency": 1,
+  "memory_max_bytes": 17179869184,
+  "cpu_max_cores": 20,
+  "warmup_calls": 5,
+  "timing": "Single sequential job, torch/BLAS=1; predict, normalized predict, full controller, solver call and sum of three solver calls separated; raw-policy diagnostics after simulation.",
+  "export_semantics": "Export disabled. Export_blocked_history is blocked surplus, not grid export."
+}

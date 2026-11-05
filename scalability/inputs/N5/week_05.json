@@ -1,0 +1,51 @@
+{
+  "N": 5,
+  "week": 5,
+  "seed": 46,
+  "csv_names": [
+    "datos_semana_2025-02-02_15min.csv",
+    "datos_semana_2025-01-26_15min.csv",
+    "datos_semana_2025-03-02_15min.csv",
+    "datos_semana_2025-02-16_15min.csv",
+    "datos_semana_2025-03-09_15min.csv"
+  ],
+  "reference_ratios": [
+    0.2081734836101532,
+    0.15246392786502838,
+    0.2316727489233017,
+    0.214089035987854,
+    0.1936008334159851
+  ],
+  "load_kwh": 27979.68359375,
+  "pv_kwh": 15751.32421875,
+  "pv_load_ratio": 0.5629557663142579,
+  "storage_load_ratio": 0.01027531276530306,
+  "total_nominal_load_scale": 5.0,
+  "total_pv_scale": 10,
+  "battery_capacity_ah": 1250.0,
+  "battery_per_site_ah": 250.0,
+  "battery_energy_kwh": 287.5,
+  "battery_per_site_kwh": 57.5,
+  "types": [
+    1,
+    2,
+    3,
+    1,
+    2
+  ],
+  "offsets": [
+    0.0,
+    8.0,
+    16.0,
+    0.0,
+    8.0
+  ],
+  "amplitude_scales": [
+    1.2,
+    0.8,
+    1.0,
+    1.2,
+    0.8
+  ],
+  "sha256": "7809bcf2c88f1d188a518fddecace12ec4cffc84cea92506ea4c32b08c7a2db0"
+}

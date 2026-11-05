@@ -1,0 +1,134 @@
+{
+  "split": "TRAIN",
+  "files": [
+    {
+      "sha256": "9ae03a7d9ac7e02c7883e6d28283ee595d12a16c3ededbc55ee6bd24773cccb6",
+      "path": "data/profiles/datos_semana_2024-04-07_15min.csv"
+    },
+    {
+      "sha256": "2b23e1b7dc3ed45266cb4402f9f03be9f839da80c9692fe950de3e99348e9184",
+      "path": "data/profiles/datos_semana_2024-04-14_15min.csv"
+    },
+    {
+      "sha256": "56a1d03de253a3cab5eb4394c4fa5621de89e70f34ebccb5f70201508292d11c",
+      "path": "data/profiles/datos_semana_2024-04-21_15min.csv"
+    },
+    {
+      "sha256": "60b1364b5a93ddc0779459a97d8844a2b21b6b8c46e1c2dbf5f6c637d4c0c873",
+      "path": "data/profiles/datos_semana_2024-04-28_15min.csv"
+    },
+    {
+      "sha256": "fb7c5414eaa5fa1ebda7c84ca982f6dfb3c92fa36233f8d61d11847a67d09325",
+      "path": "data/profiles/datos_semana_2024-05-05_15min.csv"
+    },
+    {
+      "sha256": "3ba161f907b112992e04018f57ac5e437bb9650498870b4acacc981afbebca45",
+      "path": "data/profiles/datos_semana_2024-05-12_15min.csv"
+    },
+    {
+      "sha256": "dac3090a4240759d68a038d74350c2328c10f54e61bbca970c5b32033490aeeb",
+      "path": "data/profiles/datos_semana_2024-05-19_15min.csv"
+    },
+    {
+      "sha256": "c90ff79576433aec8daffc2eb6dd58767d7f4014f81341965e3e44a0c961236c",
+      "path": "data/profiles/datos_semana_2024-05-26_15min.csv"
+    },
+    {
+      "sha256": "f14e0d78ab8f22dca1fad0a4c05a9183768441bb60cdf34ce554e5840243e5e3",
+      "path": "data/profiles/datos_semana_2024-06-02_15min.csv"
+    },
+    {
+      "sha256": "c8e1bee886e4bbcadd3664c5e2d71499180dbbe54c6dab2437829d07ee1edc8a",
+      "path": "data/profiles/datos_semana_2024-06-09_15min.csv"
+    },
+    {
+      "sha256": "217e783aa36bd5dc532ba03d8a3d2e7a39afa0a933d4d9ef6cadfc23267a920f",
+      "path": "data/profiles/datos_semana_2024-06-16_15min.csv"
+    },
+    {
+      "sha256": "258e7a4679a549e9141f03aee47f04d95b5c50cc2bbe53af11efcec0122d0f48",
+      "path": "data/profiles/datos_semana_2024-06-23_15min.csv"
+    },
+    {
+      "sha256": "2f84154b816c6a884dde875b9793d4772a8ae3f56b0449147cb5131786b63991",
+      "path": "data/profiles/datos_semana_2024-06-30_15min.csv"
+    },
+    {
+      "sha256": "da8f2288ba7ef61e0877b5adfd748d3482ba5e51e0bc18d0e9cbbcaee63e3024",
+      "path": "data/profiles/datos_semana_2024-07-07_15min.csv"
+    },
+    {
+      "sha256": "a18d949968679cede4dd00fa5d98a6971e240b7825bbb43bf2e10dfefb6006a5",
+      "path": "data/profiles/datos_semana_2024-07-14_15min.csv"
+    },
+    {
+      "sha256": "9f8ce5377011d0084d42c25ac24fcb02d94695ecd2685bd45f244084b0a041b3",
+      "path": "data/profiles/datos_semana_2024-07-21_15min.csv"
+    },
+    {
+      "sha256": "46090b2ce3aacbf80c9ca48e9fdb64542c1fd79d90f510af34e80b12be8471df",
+      "path": "data/profiles/datos_semana_2024-07-28_15min.csv"
+    },
+    {
+      "sha256": "c20b65e59faa2dd35286897b2bf79fd7cdd1aa79a1885de2ebed82c7e967b22c",
+      "path": "data/profiles/datos_semana_2024-08-04_15min.csv"
+    },
+    {
+      "sha256": "ddaabcd882a89bb574309244f02021fa30f00627a5289ba7986b6d7b93208721",
+      "path": "data/profiles/datos_semana_2024-08-11_15min.csv"
+    },
+    {
+      "sha256": "9ebffa08e5e251a18d7b4da1d63068eb2afda858856314cbfeb644b68a51e4fc",
+      "path": "data/profiles/datos_semana_2024-08-18_15min.csv"
+    },
+    {
+      "sha256": "da69b2ce1c7f1abdc53537428a9ed66df9ff56b01b314b9fa7cc5f4be1785d64",
+      "path": "data/profiles/datos_semana_2024-08-25_15min.csv"
+    },
+    {
+      "sha256": "b09adc08fa6b47827844b3163f89ef0d4e2de3915426792cc86de7137f9eb30d",
+      "path": "data/profiles/datos_semana_2024-09-01_15min.csv"
+    },
+    {
+      "sha256": "a249a16eefb5fce8ba0469389e9b6c2620cdd085e548c2f4c8e3727317381139",
+      "path": "data/profiles/datos_semana_2024-09-08_15min.csv"
+    },
+    {
+      "sha256": "5d7b0f25c723d2b36ed936bf23a56833e54f9c1781e10bc46bee6d0d23bce637",
+      "path": "data/profiles/datos_semana_2024-09-15_15min.csv"
+    },
+    {
+      "sha256": "141241eaa39813091f23dd91dbe78c8e8af82e37a62423209d9822e76dcf76eb",
+      "path": "data/profiles/datos_semana_2024-09-22_15min.csv"
+    },
+    {
+      "sha256": "66ae5822a2d37488a306397d7a9723ee5ee51eb9543107524b9b0968685a7f76",
+      "path": "data/profiles/datos_semana_2024-09-29_15min.csv"
+    },
+    {
+      "sha256": "6857a6b91cd6a08e156067087bb41f3aadb6b6a737c23c6736bcb6d376a6b4c8",
+      "path": "data/profiles/datos_semana_2024-10-06_15min.csv"
+    },
+    {
+      "sha256": "089dae4f11554dee6a0711e3927ea61a3de4b222cf148d203833116fa9c1bb8e",
+      "path": "data/profiles/datos_semana_2024-10-13_15min.csv"
+    },
+    {
+      "sha256": "310353d14ccec67068ec491d2666a22e796a5873a75c0b8b5b39d259c1fd4387",
+      "path": "data/profiles/datos_semana_2024-10-20_15min.csv"
+    },
+    {
+      "sha256": "aabf34b5d15dedafaa3adb23f5ae9e07594d28ab39f8b3ccfc9b4f19d06af669",
+      "path": "data/profiles/datos_semana_2024-10-27_15min.csv"
+    },
+    {
+      "sha256": "84e0b65f5921416355cf7f8483feb611c16ff2aba518ddf6f03b5f90c3f0f783",
+      "path": "data/profiles/datos_semana_2024-11-03_15min.csv"
+    },
+    {
+      "sha256": "0e14e2b63eba02683382677073d27d7e0678bb5adcba140d377fd29812e08430",
+      "path": "data/profiles/datos_semana_2024-11-10_15min.csv"
+    }
+  ],
+  "usage": "TRAIN"
+}

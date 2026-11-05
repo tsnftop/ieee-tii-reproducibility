@@ -1,0 +1,152 @@
+{
+  "3042": {
+    "input_digest": "6e32e5aba0abd1e7526e0f28b24ad72ec09636e134de79dfd4b5d8d9b5c22690",
+    "csv_names": [
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2024-12-01_15min.csv",
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2024-12-22_15min.csv"
+    ]
+  },
+  "3043": {
+    "input_digest": "b3266ef2379efe00f162c63c3aac20a94786274340c63de734acacf8a28d9d61",
+    "csv_names": [
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2024-12-01_15min.csv",
+      "datos_semana_2024-11-24_15min.csv"
+    ]
+  },
+  "3044": {
+    "input_digest": "12cdaa920ea8599629ec478b4e0112ff7edd944e0611b0545d4e0fe65edf0241",
+    "csv_names": [
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2024-12-01_15min.csv",
+      "datos_semana_2024-12-29_15min.csv"
+    ]
+  },
+  "3045": {
+    "input_digest": "d2a5119f21c7d4682009b18b93bd46da6359af70df1bfb8621cd8f4a36e40bfe",
+    "csv_names": [
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2024-12-01_15min.csv",
+      "datos_semana_2025-01-19_15min.csv"
+    ]
+  },
+  "3046": {
+    "input_digest": "d0f8b7900daf0257a363bbc74f53dad59d94350e57e3a22e808a1b827f4eff2a",
+    "csv_names": [
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-01_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2024-12-15_15min.csv"
+    ]
+  },
+  "3047": {
+    "input_digest": "9f545ccbd91e45fb608aac2d622b5057504a33df708fe88cd154494f45c798e6",
+    "csv_names": [
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2024-12-01_15min.csv",
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2024-11-24_15min.csv"
+    ]
+  },
+  "3048": {
+    "input_digest": "1335bbbd147ef16d3461f01334aeafb481d51f6fb814e4ff04df24895e843be7",
+    "csv_names": [
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2024-12-01_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2024-11-24_15min.csv"
+    ]
+  },
+  "3049": {
+    "input_digest": "3e4ee29a9720fbf4941f3a0f90c7d16c8a8e7029443753bf966e2c4a9a58d4d6",
+    "csv_names": [
+      "datos_semana_2024-12-01_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2025-01-19_15min.csv"
+    ]
+  },
+  "3050": {
+    "input_digest": "ccb41277cb521c4041cd07834d52e7bd1b25d12aa668a14c95ebe8a1d6deef1a",
+    "csv_names": [
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2024-12-01_15min.csv"
+    ]
+  },
+  "3051": {
+    "input_digest": "24b21f1d2357aa41529c6d93cf449138b7751d51c75742deb7ad860557691b5f",
+    "csv_names": [
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2024-12-01_15min.csv"
+    ]
+  }
+}

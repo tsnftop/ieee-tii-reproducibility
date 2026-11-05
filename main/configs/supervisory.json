@@ -1,0 +1,101 @@
+{
+  "action_space": {
+    "action_dim": 9,
+    "observation_dim": 69,
+    "uses_supervisory_constraints": true,
+    "variables": "beta+dr+sr"
+  },
+  "algorithm": "PPO",
+  "environment": {
+    "action_repeat": 4,
+    "advantage_weight": 100.0,
+    "aggressive_soc_threshold": 50.0,
+    "battery_capacities": [
+      350.0,
+      150.0,
+      250.0
+    ],
+    "battery_ibmax": 200.0,
+    "battery_ibmin": -200.0,
+    "battery_voltage": 230,
+    "controller_type": "hinted",
+    "cost_weight": 0.0,
+    "csv_dir": null,
+    "delta_t_hours": 0.25,
+    "episode_hours": 168,
+    "fairness_weight": 2.0,
+    "forecast_horizon_hours": 8.0,
+    "initial_soc": 50.0,
+    "mat_path": null,
+    "max_beta_deviation": 0.6,
+    "min_beta_ratio": 0.05,
+    "n_sites": 3,
+    "price_daily_variation": 0.2,
+    "price_noise_pct": 0.05,
+    "price_window_hours": 8.0,
+    "pv_installed_ratios": null,
+    "pv_scale": 2.0,
+    "site_load_offsets_h": [
+      0.0,
+      8.0,
+      16.0
+    ],
+    "site_load_scales": [
+      1.2,
+      0.8,
+      1.0
+    ],
+    "smoothness_weight": 0.05,
+    "soc_max": 90.0,
+    "soc_min": 10.0,
+    "soc_reserve_ceil": 50.0,
+    "static_discharge_rate": 0.2,
+    "static_soc_reserve": 0.0,
+    "use_hints": true,
+    "waste_weight": 5.0
+  },
+  "model_path": "main/models/supervisory/ppo_community.zip",
+  "script": "common/RL/train_community.py",
+  "training": {
+    "batch_size": 256,
+    "checkpoint_freq": 50000,
+    "clip_range": 0.2,
+    "device": "cpu",
+    "ent_coef": 0.01,
+    "eval_episodes": 5,
+    "eval_freq": 10000,
+    "gae_lambda": 0.95,
+    "gamma": 0.99,
+    "learning_rate": 0.0003,
+    "log_dir": "main/outputs/training_supervisory",
+    "lr_schedule": "linear",
+    "max_grad_norm": 0.5,
+    "n_envs": 8,
+    "n_epochs": 5,
+    "n_steps": 512,
+    "policy": "MlpPolicy",
+    "policy_kwargs": {
+      "net_arch": {
+        "pi": [
+          128,
+          64
+        ],
+        "vf": [
+          128,
+          64
+        ]
+      }
+    },
+    "save_name": "ppo_community",
+    "sde_sample_freq": 4,
+    "seed": 42,
+    "target_kl": 0.03,
+    "tensorboard_log": false,
+    "tensorboard_subdir": "tb_community",
+    "total_timesteps": 5000000,
+    "use_sde": false,
+    "verbose": 1,
+    "vf_coef": 0.5
+  },
+  "vecnorm_path": "main/models/supervisory/vecnorm_community_stats.pkl"
+}

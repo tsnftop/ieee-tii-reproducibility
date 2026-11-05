@@ -1,0 +1,172 @@
+{
+  "3042": {
+    "csv_names": [
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2024-12-08_15min.csv"
+    ],
+    "input_digest": "217351f1fc2f2756ab14aa4f8d3b7b5e9cc18c8b0ddb6f5891d428f59f50eff7",
+    "pv_ratios": [
+      0.144026979804039,
+      0.21674995124340057,
+      0.19929488003253937,
+      0.23731280863285065,
+      0.20261535048484802
+    ]
+  },
+  "3043": {
+    "csv_names": [
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2024-12-01_15min.csv"
+    ],
+    "input_digest": "a4d8d5985e45c18691079651d5b61a289a5ee618386929a2889462e29057562a",
+    "pv_ratios": [
+      0.18226653337478638,
+      0.1798098087310791,
+      0.21107640862464905,
+      0.22949251532554626,
+      0.19735467433929443
+    ]
+  },
+  "3044": {
+    "csv_names": [
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2024-12-01_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2025-01-05_15min.csv"
+    ],
+    "input_digest": "80391da5942bbca0f067a2ccd86f0a2bc40d506bd137e009f4434552566f1fce",
+    "pv_ratios": [
+      0.21991844475269318,
+      0.1891213357448578,
+      0.21638117730617523,
+      0.20227062702178955,
+      0.17230841517448425
+    ]
+  },
+  "3045": {
+    "csv_names": [
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-01_15min.csv"
+    ],
+    "input_digest": "9f9964bd478077c4e38be35b1d7f46fb250f789ecd4c65b0ba8a6d86169e2148",
+    "pv_ratios": [
+      0.1911158561706543,
+      0.22757352888584137,
+      0.23412322998046875,
+      0.16551852226257324,
+      0.18166892230510712
+    ]
+  },
+  "3046": {
+    "csv_names": [
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2024-12-01_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2025-01-05_15min.csv"
+    ],
+    "input_digest": "759e0d2ea3837b9d50f82b79dc11e70a45c4c95630e6ff77b198aba478e250a1",
+    "pv_ratios": [
+      0.23800775408744812,
+      0.18468312919139862,
+      0.2147575169801712,
+      0.19428680837154388,
+      0.16826477646827698
+    ]
+  },
+  "3047": {
+    "csv_names": [
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2024-12-01_15min.csv"
+    ],
+    "input_digest": "51427cc885af574383eea59f8b3592874fe7ac4f5c0bc6f0afac87e0ab639441",
+    "pv_ratios": [
+      0.18634285032749176,
+      0.18383117020130157,
+      0.21226054430007935,
+      0.2157970368862152,
+      0.2017684280872345
+    ]
+  },
+  "3048": {
+    "csv_names": [
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2025-01-12_15min.csv",
+      "datos_semana_2025-01-19_15min.csv"
+    ],
+    "input_digest": "a99450b98d8cbc7ed021745fa1a0072392eaaad42706accc900b49e9f903495a",
+    "pv_ratios": [
+      0.20994079113006592,
+      0.16673824191093445,
+      0.16449081897735596,
+      0.22616052627563477,
+      0.23266956210136414
+    ]
+  },
+  "3049": {
+    "csv_names": [
+      "datos_semana_2025-01-05_15min.csv",
+      "datos_semana_2024-12-29_15min.csv",
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2024-12-22_15min.csv",
+      "datos_semana_2024-12-08_15min.csv"
+    ],
+    "input_digest": "8a954cda2611e518359360897d7afb5c61d7eb60bca4f13f5470c0cb4356acbf",
+    "pv_ratios": [
+      0.16613152623176575,
+      0.19182366132736206,
+      0.23499031364917755,
+      0.21203483641147614,
+      0.1950196623802185
+    ]
+  },
+  "3050": {
+    "csv_names": [
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2024-11-24_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2024-12-01_15min.csv"
+    ],
+    "input_digest": "0714f4d4a5c19caa34c382850412878bf2bf90a1716fb79eea5ccdc70f121ca2",
+    "pv_ratios": [
+      0.2555962800979614,
+      0.1507837325334549,
+      0.18316824734210968,
+      0.2121206521987915,
+      0.19833102822303772
+    ]
+  },
+  "3051": {
+    "csv_names": [
+      "datos_semana_2025-01-19_15min.csv",
+      "datos_semana_2024-12-08_15min.csv",
+      "datos_semana_2024-11-17_15min.csv",
+      "datos_semana_2024-12-15_15min.csv",
+      "datos_semana_2025-01-12_15min.csv"
+    ],
+    "input_digest": "8e131b19c71441608ffc4c1e0a06cab0373c1630ec4974bff457644833b8ec3d",
+    "pv_ratios": [
+      0.23366348445415497,
+      0.19391851127147675,
+      0.20744642615318298,
+      0.13784493505954742,
+      0.22712665796279907
+    ]
+  }
+}

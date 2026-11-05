@@ -1,0 +1,34 @@
+{
+  "methods": {
+    "uniform": "Uniform (baseline)",
+    "uniform_constraints": "Uniform + Constraints",
+    "proportional_constraints": "Proportional + Constraints",
+    "rule_based": "Rule-Based",
+    "allocation_ppo": "RL Global (restricted)",
+    "allocation_mpc": "MPC beta-sequence",
+    "supervisory_ppo": "RL Global",
+    "supervisory_mpc": "MPC supervisory"
+  },
+  "scenario_seeds": {
+    "1": 42,
+    "2": 43,
+    "3": 44,
+    "4": 45,
+    "5": 46,
+    "6": 47,
+    "7": 48,
+    "8": 49,
+    "9": 50,
+    "10": 51
+  },
+  "n_sites": 3,
+  "hours": 168,
+  "delta_t": 0.25,
+  "mpc_horizon_hours": 8.0,
+  "mpc_equity_weight": 0.1,
+  "mpc_maxiter": 40,
+  "mpc_static_dr": 0.2,
+  "mpc_static_sr": 0.0,
+  "forecast_horizon_hours": 8.0,
+  "price_window_hours": 8.0
+}

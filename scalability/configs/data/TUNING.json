@@ -1,0 +1,46 @@
+{
+  "split": "TUNING",
+  "files": [
+    {
+      "sha256": "434aef02a728f4e4efbe5faf7c18c2c67939fb2b4a3a1e863d21340a2f57459a",
+      "path": "data/profiles/datos_semana_2024-11-17_15min.csv"
+    },
+    {
+      "sha256": "43062ddb4e45b12528370dcda3980490f65602ce554c0a2a341a4ef2369cf601",
+      "path": "data/profiles/datos_semana_2024-11-24_15min.csv"
+    },
+    {
+      "sha256": "b9e8f4bd305e138820ae00186152aa3d14ca3205c2b849dc33d9d8bc56129750",
+      "path": "data/profiles/datos_semana_2024-12-01_15min.csv"
+    },
+    {
+      "sha256": "4e716a260269264c0b7ad94dd8b3b7161658feefad8f3775692695a096c65b5d",
+      "path": "data/profiles/datos_semana_2024-12-08_15min.csv"
+    },
+    {
+      "sha256": "e0bce5a6e9ad4539c0e20438d9b1a19bad1bdee976a0176282344759fd5fc21a",
+      "path": "data/profiles/datos_semana_2024-12-15_15min.csv"
+    },
+    {
+      "sha256": "4be446e72e661596abff56bf7dc51ee683d0a057e2e2a3362983b00c483e083e",
+      "path": "data/profiles/datos_semana_2024-12-22_15min.csv"
+    },
+    {
+      "sha256": "3941cc98b921bb2e073f186a66c8e5b604d5a26d5fd7e66926f1770e76e17d97",
+      "path": "data/profiles/datos_semana_2024-12-29_15min.csv"
+    },
+    {
+      "sha256": "c871e4e520ad51ab5362b007d238dda2eb0bfc0b1636b0153dab3bc26b584d44",
+      "path": "data/profiles/datos_semana_2025-01-05_15min.csv"
+    },
+    {
+      "sha256": "9caaa74178a7eb473d98292b3b5a05ecf7e0ce3bf3623334dc3c72e46c6c05e8",
+      "path": "data/profiles/datos_semana_2025-01-12_15min.csv"
+    },
+    {
+      "sha256": "8c326cff9a4e8fe65d8aeb1863a9b4d791abc054be2bae83a6b01f62e8c2714f",
+      "path": "data/profiles/datos_semana_2025-01-19_15min.csv"
+    }
+  ],
+  "usage": "TUNING"
+}

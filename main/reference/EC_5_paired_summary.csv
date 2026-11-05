@@ -1,0 +1,8 @@
+comparison,n_pairs,full_rl_lower_cost_weeks,mean_paired_cost_diff_full_minus_other,std_paired_cost_diff_full_minus_other,mean_pct_diff_full_minus_other,wilcoxon_p_value,wilcoxon_note
+RL Global vs Uniform (baseline),10,10,-218.760937244,11.245999897,-10.714349964,0.001953125,"exploratory Wilcoxon signed-rank test, n=10"
+RL Global vs Uniform + Constraints,10,10,-68.562029966,9.352211465,-3.617960126,0.001953125,"exploratory Wilcoxon signed-rank test, n=10"
+RL Global vs Proportional + Constraints,10,10,-71.516582541,14.083370049,-3.761851716,0.001953125,"exploratory Wilcoxon signed-rank test, n=10"
+RL Global vs Rule-Based,10,10,-54.832349553,5.600463495,-2.920361460,0.001953125,"exploratory Wilcoxon signed-rank test, n=10"
+RL Global vs RL Global (restricted),10,10,-54.781028915,6.740959570,-2.915552916,0.001953125,"exploratory Wilcoxon signed-rank test, n=10"
+RL Global vs MPC beta-sequence,10,10,-30.989153088,4.041342673,-1.672640243,0.001953125,"exploratory Wilcoxon signed-rank test, n=10"
+RL Global vs MPC supervisory,10,0,31.433430746,3.474810362,1.754627218,0.001953125,"exploratory Wilcoxon signed-rank test, n=10"

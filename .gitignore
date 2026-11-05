@@ -1,0 +1,35 @@
+# Generated evaluation and training outputs
+**/outputs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.ipynb_checkpoints/
+
+# Temporary files and local logs
+*.tmp
+*.temp
+tmp/
+temp/
+*.log
+*.log.*
+.logs/
+logs/
+
+# Backup copies
+backups/
+.backups/
+*.bak
+*.backup
+*.orig
+*.old
+*~

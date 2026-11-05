@@ -1,0 +1,51 @@
+{
+  "experiment": "scalability",
+  "seed": 42,
+  "N": 10,
+  "ppo": {
+    "total_timesteps": 5000000,
+    "log_dir": null,
+    "tensorboard_log": false,
+    "tensorboard_subdir": "tb_community",
+    "policy": "MlpPolicy",
+    "learning_rate": 0.0003,
+    "lr_schedule": "linear",
+    "n_envs": 8,
+    "n_steps": 512,
+    "batch_size": 256,
+    "n_epochs": 5,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_range": 0.2,
+    "ent_coef": 0.003,
+    "vf_coef": 0.5,
+    "max_grad_norm": 0.5,
+    "policy_kwargs": {
+      "net_arch": {
+        "pi": [
+          128,
+          64
+        ],
+        "vf": [
+          128,
+          64
+        ]
+      }
+    },
+    "device": "cpu",
+    "verbose": 1,
+    "seed": 42,
+    "save_name": "ppo_community",
+    "use_sde": false,
+    "sde_sample_freq": 4,
+    "target_kl": 0.03,
+    "eval_freq": 10000,
+    "eval_episodes": 5,
+    "checkpoint_freq": 50000
+  },
+  "economic_clip_limit": 16.666666666666668,
+  "fresh": true,
+  "requested_additional_steps": 5000000,
+  "initial_steps": 0,
+  "target_total_steps": 5000000
+}

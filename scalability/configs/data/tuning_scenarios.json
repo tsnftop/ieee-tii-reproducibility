@@ -1,0 +1,22 @@
+{
+  "seeds": [
+    3042,
+    3043,
+    3044,
+    3045,
+    3046,
+    3047,
+    3048,
+    3049,
+    3050,
+    3051
+  ],
+  "episodes": 10,
+  "policy": "deterministic",
+  "normalizer": "frozen",
+  "price_daily_variation": 0.0,
+  "price_noise_pct": 0.05,
+  "initial_soc": 50,
+  "episode_hours": 168,
+  "selection": "Original load_community_profiles: select N CSV without replacement from the same ten TUNING CSV; original offsets, scales, ratios and price noise"
+}
