@@ -722,7 +722,7 @@ class CommunityEnv(gym.Env[np.ndarray, np.ndarray]):
         return inside(self.config.csv_dir) if self.config.csv_dir else ROOT / "data/profiles"
 
     def _resolve_mat_path(self) -> Path:
-        return inside(self.config.mat_path) if self.config.mat_path else ROOT / "data/data_bbaa_1week.mat"
+        return inside(self.config.mat_path) if self.config.mat_path else ROOT / "data/weekly_base_data.mat"
 
     def _apply_daily_price_variation(self, prices: np.ndarray) -> np.ndarray:
         out = prices.copy()

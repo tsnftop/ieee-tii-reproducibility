@@ -17,7 +17,7 @@ The studies use distinct experimental protocols, configurations, and trained pol
 common/                  Shared simulator, environments, controllers, and training routines
 data/
   profiles/              Weekly PV and demand profiles
-  data_bbaa_1week.mat     Base electricity-price data
+  weekly_base_data.mat     Base electricity-price data
 main/
   configs/               Main-study evaluation and policy configurations
   models/                Allocation-Only and Supervisory PPO policy-normalizer pairs
@@ -64,7 +64,7 @@ In subsequent commands, `python` denotes the selected virtual-environment interp
 
 ## Data organization
 
-The shared `data/profiles/` directory contains weekly PV and demand CSV files. Simulation uses 15-minute physical steps and hourly control decisions. `data/data_bbaa_1week.mat` supplies base price data.
+The shared `data/profiles/` directory contains weekly PV and demand CSV files. Simulation uses 15-minute physical steps and hourly control decisions. `data/weekly_base_data.mat` supplies base price data.
 
 For the main benchmark evaluation, [data.json](main/configs/data.json) specifies the training and evaluation profile pools. Its `validation` key identifies the evaluation pool. Scenarios 1 through 10 correspond to scenario seeds 42 through 51, as specified in [evaluation.json](main/configs/evaluation.json). A scenario seed determines the selected profiles and their stochastic perturbations.
 

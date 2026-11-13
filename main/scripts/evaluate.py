@@ -25,7 +25,7 @@ def main():
                 if not inside(f"main/models/{folder}/{filename}").is_file():
                     raise FileNotFoundError(f"Missing paired policy resource: {folder}/{filename}")
     profiles = profile_files("validation")
-    prices = inside("data/data_bbaa_1week.mat")
+    prices = inside("data/weekly_base_data.mat")
     if not prices.is_file():
         raise FileNotFoundError(prices)
     output = new_output(cli.output)

@@ -28,7 +28,7 @@ def site_parameters(n):
 
 def env_config(n):
     return CommunityEnvConfig(**site_parameters(n),
-        csv_dir="data/profiles", mat_path="data/data_bbaa_1week.mat")
+        csv_dir="data/profiles", mat_path="data/weekly_base_data.mat")
 
 def sim_config(n):
     return ec5.CommunitySimConfig(**site_parameters(n))

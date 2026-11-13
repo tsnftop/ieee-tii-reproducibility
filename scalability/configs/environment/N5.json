@@ -1,7 +1,7 @@
 {
   "train": {
     "csv_dir": "data/profiles",
-    "mat_path": "data/data_bbaa_1week.mat",
+    "mat_path": "data/weekly_base_data.mat",
     "n_sites": 5,
     "delta_t_hours": 0.25,
     "episode_hours": 168,
@@ -55,7 +55,7 @@
   },
   "tuning": {
     "csv_dir": "data/profiles",
-    "mat_path": "data/data_bbaa_1week.mat",
+    "mat_path": "data/weekly_base_data.mat",
     "n_sites": 5,
     "delta_t_hours": 0.25,
     "episode_hours": 168,
